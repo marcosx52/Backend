@@ -1,0 +1,18 @@
+{
+    "title": "Hot Wheels x3 Azul",
+    "price": 500,
+    "thumbnail": "https://girodidacticolaplata.com.ar/wp-content/uploads/2020/07/Hot-Wheels-x3.jpg",
+    "id": 1001,   
+  },
+  {
+    "title": "Hot Wheels x3 Amarrillo",
+    "price": 600,
+    "thumbnail": "https://girodidacticolaplata.com.ar/wp-content/uploads/2020/07/Hot-Wheels-x3.jpg",
+    "id": 1002,  
+  },
+  {
+    "title": "Hot Wheels x3 Rojo",
+    "price": 700,
+    "thumbnail": "https://girodidacticolaplata.com.ar/wp-content/uploads/2020/07/Hot-Wheels-x3.jpg",
+    "id": 1003,
+    }
